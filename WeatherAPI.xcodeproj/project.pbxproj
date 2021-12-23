@@ -12,6 +12,7 @@
 		F95B1B542773CAE300C527ED /* weatherData.json in Resources */ = {isa = PBXBuildFile; fileRef = F95B1B532773CAE300C527ED /* weatherData.json */; };
 		F95B1B562773CBFC00C527ED /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F95B1B552773CBFC00C527ED /* Extensions.swift */; };
 		F95B1B592773D8B700C527ED /* WeatherRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F95B1B582773D8B700C527ED /* WeatherRow.swift */; };
+		F95E914627741D9F007BAF1C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F95E914527741D9F007BAF1C /* README.md */; };
 		F9682FBD276747680059F56C /* WeatherAPIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9682FBC276747680059F56C /* WeatherAPIApp.swift */; };
 		F9682FBF276747680059F56C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9682FBE276747680059F56C /* ContentView.swift */; };
 		F9682FC1276747690059F56C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9682FC0276747690059F56C /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 		F95B1B532773CAE300C527ED /* weatherData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = weatherData.json; sourceTree = "<group>"; };
 		F95B1B552773CBFC00C527ED /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		F95B1B582773D8B700C527ED /* WeatherRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherRow.swift; sourceTree = "<group>"; };
+		F95E914527741D9F007BAF1C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F9682FB9276747680059F56C /* WeatherAPI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherAPI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9682FBC276747680059F56C /* WeatherAPIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherAPIApp.swift; sourceTree = "<group>"; };
 		F9682FBE276747680059F56C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 		F9682FB0276747680059F56C = {
 			isa = PBXGroup;
 			children = (
+				F95E914527741D9F007BAF1C /* README.md */,
 				F9682FBB276747680059F56C /* WeatherAPI */,
 				F9682FBA276747680059F56C /* Products */,
 			);
@@ -178,6 +181,7 @@
 			files = (
 				F9682FC4276747690059F56C /* Preview Assets.xcassets in Resources */,
 				F95B1B542773CAE300C527ED /* weatherData.json in Resources */,
+				F95E914627741D9F007BAF1C /* README.md in Resources */,
 				F9682FC1276747690059F56C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
